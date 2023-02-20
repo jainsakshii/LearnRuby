@@ -1,5 +1,5 @@
 #Ways to declare Arrays
-colleagues = Array["Sakshi","Udit","Nikhil","Rohit"]
+colleagues =["Sakshi","Udit","Nikhil","Rohit"]
 puts (colleagues[0])
 #Second ways
 friends = Array.new
